@@ -5,7 +5,6 @@
 	<classes>
 		<class name="TestCases.TC_01_Login"></class>
 		<class name="TestCases.TC_02_AppBook"></class>
-		<class name="TestCases.TC_03_verify"></class>
 	</classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

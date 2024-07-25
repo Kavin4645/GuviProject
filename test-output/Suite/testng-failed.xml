@@ -3,13 +3,6 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="TestCases.TC_02_AppBook">
-        <methods>
-          <include name="start"/>
-          <include name="TC_02_AppBook"/>
-          <include name="close"/>
-        </methods>
-      </class> <!-- TestCases.TC_02_AppBook -->
       <class name="TestCases.TC_01_Login">
         <methods>
           <include name="start"/>
